@@ -1,7 +1,7 @@
 
 {                                                                   
-            "name": "be.eloistree.uvdrawabledronesEditor",          
-    "references": ["be.eloistree.uvdrawabledrones"
+            "name": "be.elab.uvdrawabledronesEditor",          
+    "references": ["be.elab.uvdrawabledrones"
 ],                                                              
     "optionalUnityReferences": [],                                  
     "includePlatforms": [                                           
